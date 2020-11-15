@@ -2,3 +2,6 @@ Data/**.csv
 Data/sample_submission.zip
 Data/test.zip
 Data/train.zip
+Data/fastest_routes_train_part_1.csv
+Data/fastest_routes_train_part_2.csv
+Data/fastest_routes_test.csv
