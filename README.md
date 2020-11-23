@@ -6,4 +6,4 @@ Competition link: https://www.kaggle.com/c/nyc-taxi-trip-duration/overview
 
 ![image](https://user-images.githubusercontent.com/55701302/100015518-64aa4b80-2dd8-11eb-9e56-d8d945a25f54.png)
 
-*Example of features engineering we proceed by creating neighborhoods of New York city using Kmeans algorithms*
+*Example of features engineering we proceeded by creating neighborhoods of New York city using Kmeans algorithms*
